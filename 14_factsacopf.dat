@@ -1,4 +1,4 @@
-param NumGeneratorCostCurvePieces := 10;
+param NumGeneratorCostCurvePieces := 100;
 param NumBuses := 14 ;
 set ThermalGenerator:= G1 G2 G3 G6 G8;
 set Buses := 1 2 3 4 5 6 7 8 9 10 11 12 13 14;
